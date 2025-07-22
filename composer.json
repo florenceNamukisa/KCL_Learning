@@ -1,6 +1,7 @@
 {
     "require": {
-        "jakub-onderka/php-console-color": "^0.1.0",
-        "sebastian/diff": "^1.3"
+        "swiftmailer/swiftmailer": "^5.4",
+        "psy/psysh": "^0.5.2",
+        "phpunit/phpunit": "^4.8"
     }
 }
